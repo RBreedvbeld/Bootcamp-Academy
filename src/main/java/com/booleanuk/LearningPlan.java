@@ -19,5 +19,4 @@ public class LearningPlan {
         return true;
     }
 
-
 }
